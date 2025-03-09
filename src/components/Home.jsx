@@ -234,7 +234,7 @@ const Home = () => {
         </button>
       </div>
       <img src="image 1069.png" className=""></img>
-      <div className="w-full pt-10 pb-10 justify-items-center bg-[#E4875D] ">
+      <div className="w-full mt-20 lg:pt-10 pb-10 justify-items-center bg-[#E4875D] ">
         <p className="text-white font-semibold text-lg">Perfected by</p>
         <div className="flex lg:gap-44 gap-30 mt-10 mb-7">
           <img src="image 1138.png" className="w-[7vw] hidden lg:block "></img>
@@ -693,7 +693,7 @@ const Home = () => {
 
         {/* you videos and brand */}
         <div
-          className={`w-[100vw] p-5 lg:p-0 justify-items-center lg:justify-items-normal   bg-[#E4875D] ${
+          className={`w-[100vw] mt-30 p-5 lg:p-0 justify-items-center lg:justify-items-normal   bg-[#E4875D] ${
             darkMode ? "bg-gray-700 border shadow-xl" : ""
           }`}
         >
