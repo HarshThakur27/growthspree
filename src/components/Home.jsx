@@ -790,7 +790,7 @@ const Home = () => {
             </div>
             <div className="relative  lg:bg-[#AFC3CA33] rounded-t-full   ">
               <img
-                src="/Media+ offerings.png"
+                src="Media+ offerings.png"
                 className="lg:p-17   p-1 ml-3 pr-5 mt-9 absolute z-1 lg:z-1"
               ></img>
               <div className="w-full  pt-50   lg:top-96  lg:pt-[700px]  ">
